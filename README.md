@@ -44,7 +44,7 @@ PhishLog is a penetration testing and red teaming tool that automates the setup 
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Phishing-Keylogger-v2 /opt/jamesm0rr1s/Phishing-Keylogger-v2
+git clone https://github.com/centralinfosec/Phishing-Keylogger-v2 /opt/Central-InfoSec/Phishing-Keylogger-v2
 ```
 
 ## Usage
@@ -54,8 +54,8 @@ git clone https://github.com/jamesm0rr1s/Phishing-Keylogger-v2 /opt/jamesm0rr1s/
    - Add `<script src="main.js?ver=0"></script>` to the html code
  - Configure the web server by running the follow commands:
 ```
-chmod +x /opt/jamesm0rr1s/Phishing-Keylogger-v2/setupWebServerForPhishing.sh
-/opt/jamesm0rr1s/Phishing-Keylogger-v2/setupWebServerForPhishing.sh
+chmod +x /opt/Central-InfoSec/Phishing-Keylogger-v2/setupWebServerForPhishing.sh
+/opt/Central-InfoSec/Phishing-Keylogger-v2/setupWebServerForPhishing.sh
 ```
 
 ## Example Screenshot of Live Keystrokes
