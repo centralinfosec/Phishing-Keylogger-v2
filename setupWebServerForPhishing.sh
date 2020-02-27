@@ -3,7 +3,7 @@
 # Sets up a phishing environment to log credentials and two-factor tokens.
 
 # Set the install directory
-installDirectory="/opt/jamesm0rr1s/Phishing-Keylogger-v2"
+installDirectory="/opt/Central-InfoSec/Phishing-Keylogger-v2"
 
 # Update package list to pick up new repository's package information
 apt update
